@@ -36,5 +36,6 @@ print(mer)
 
 ## Output
 <img width="1261" height="756" alt="image" src="https://github.com/user-attachments/assets/f0bcc48d-ea6b-4940-9ccc-8a31439eb2da" />
+
 ## Result
 Thus, the program to join two Pandas DataFrames along rows was executed successfully.
